@@ -3,10 +3,10 @@
 return array (
   'type' => 'mysql',
   'hostname' => 'localhost',
-  'database' => 'root  ',//账号
-  'username' => '123456',//用户名
-  'password' => '999999',//密码
-  'hostport' => '3306',
+  'database' => 'jingfaka',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3307',
   'dsn' => '',
   'params' => 
   array (
